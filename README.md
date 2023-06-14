@@ -4,7 +4,7 @@ A machine learning pipeline that will identify Freezing of Gait events in Parkin
 I tried the following models:
 - MLP Neural Network
 - LGB
-- LogReg
+- Logistic Regression
 
 
-Placed 237/1427
+Placed 232/1379 (17th percentile)
