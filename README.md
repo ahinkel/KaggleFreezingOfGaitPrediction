@@ -9,4 +9,9 @@ I tried the following models:
 
 [Placed 232/1379 (17th percentile)](https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/leaderboard?search=hinkel)
 
-Open sourcing the code on GitHub in case it may be useful.
+Open sourcing the code on GitHub in case it may be useful. I will come back to this and explain it (hopefully).
+
+
+## Feature Explanations:
+
+TBA
